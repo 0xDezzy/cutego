@@ -1,1 +1,1 @@
-module github.com/0xDezzy/qt/internal/examples
+module github.com/0xDezzy/cutego/internal/examples
