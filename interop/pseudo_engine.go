@@ -3,9 +3,9 @@ package interop
 import (
 	"unsafe"
 
-	"github.com/bluszcz/cutego"
+	"github.com/0xDezzy/cutego"
 
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego/core"
 )
 
 //TODO: this == nil checks

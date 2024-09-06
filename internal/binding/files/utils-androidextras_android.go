@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/bluszcz/cutego"
+	"github.com/0xDezzy/cutego"
 )
 
 func assertion(key int, input ...interface{}) (unsafe.Pointer, func()) {

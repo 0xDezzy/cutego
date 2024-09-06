@@ -5,7 +5,7 @@ package main
 import (
 	"unsafe"
 
-	"github.com/bluszcz/cutego"
+	"github.com/0xDezzy/cutego"
 )
 
 var (

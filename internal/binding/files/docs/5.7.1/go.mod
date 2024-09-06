@@ -1,1 +1,1 @@
-module github.com/bluszcz/qt/internal/binding/files/docs/5.7.1
+module github.com/0xDezzy/qt/internal/binding/files/docs/5.7.1

@@ -3,8 +3,8 @@
 package view
 
 import (
-	"github.com/bluszcz/cutego/gui"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/gui"
+	"github.com/0xDezzy/cutego/widgets"
 )
 
 type menuBarController struct {

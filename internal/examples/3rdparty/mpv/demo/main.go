@@ -5,11 +5,11 @@ package main
 import (
 	"os"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/gui"
-	"github.com/bluszcz/cutego/quick"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/gui"
+	"github.com/0xDezzy/cutego/quick"
 
-	"github.com/bluszcz/cutego/internal/examples/3rdparty/mpv"
+	"github.com/0xDezzy/cutego/internal/examples/3rdparty/mpv"
 )
 
 func main() {

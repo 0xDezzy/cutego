@@ -4,10 +4,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/sql"
-	"github.com/bluszcz/cutego/widgets"
-	"github.com/bluszcz/cutego/xml"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/sql"
+	"github.com/0xDezzy/cutego/widgets"
+	"github.com/0xDezzy/cutego/xml"
 )
 
 var uniqueArtistId int

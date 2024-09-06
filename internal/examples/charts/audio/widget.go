@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/bluszcz/cutego/charts"
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/multimedia"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/charts"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/multimedia"
+	"github.com/0xDezzy/cutego/widgets"
 )
 
 type Widget struct {

@@ -3,4 +3,4 @@
 
 package env
 
-import _ "github.com/bluszcz/env_darwin_amd64_513"
+import _ "github.com/0xDezzy/env_darwin_amd64_513"

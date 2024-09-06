@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/bluszcz/cutego/internal/binding/parser"
+	"github.com/0xDezzy/cutego/internal/binding/parser"
 )
 
 func GoInputParametersForC(function *parser.Function) string {

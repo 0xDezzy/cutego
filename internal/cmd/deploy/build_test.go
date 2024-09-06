@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/bluszcz/cutego/internal/utils"
+	"github.com/0xDezzy/cutego/internal/utils"
 )
 
 func Test_escapeFlags(t *testing.T) {

@@ -1,9 +1,9 @@
 package files
 
 import (
-	"github.com/bluszcz/cutego/quick"
+	"github.com/0xDezzy/cutego/quick"
 
-	"github.com/bluszcz/cutego/internal/examples/showcases/wallet/files/controller"
+	"github.com/0xDezzy/cutego/internal/examples/showcases/wallet/files/controller"
 )
 
 func init() { buttonTemplate_QmlRegisterType2("FilesTemplate", 1, 0, "ButtonTemplate") }

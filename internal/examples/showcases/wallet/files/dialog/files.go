@@ -1,9 +1,9 @@
 package dialog
 
 import (
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/widgets"
 
-	_ "github.com/bluszcz/cutego/internal/examples/showcases/wallet/files/dialog/controller"
+	_ "github.com/0xDezzy/cutego/internal/examples/showcases/wallet/files/dialog/controller"
 )
 
 type filesUploadTemplate struct {

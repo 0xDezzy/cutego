@@ -5,10 +5,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego/core"
 
-	maincontroller "github.com/bluszcz/cutego/internal/examples/showcases/wallet/controller"
-	_ "github.com/bluszcz/cutego/internal/examples/showcases/wallet/view/controller"
+	maincontroller "github.com/0xDezzy/cutego/internal/examples/showcases/wallet/controller"
+	_ "github.com/0xDezzy/cutego/internal/examples/showcases/wallet/view/controller"
 )
 
 func init() {

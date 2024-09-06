@@ -3,9 +3,9 @@ package shared
 import (
 	"fmt"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/webchannel"
-	"github.com/bluszcz/cutego/websockets"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/webchannel"
+	"github.com/0xDezzy/cutego/websockets"
 )
 
 type WebSocketTransport struct {

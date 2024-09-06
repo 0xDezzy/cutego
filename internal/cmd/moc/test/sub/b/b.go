@@ -1,9 +1,9 @@
 package b
 
 import (
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego/core"
 
-	_ "github.com/bluszcz/cutego/internal/cmd/moc/test/sub/conf"
+	_ "github.com/0xDezzy/cutego/internal/cmd/moc/test/sub/conf"
 )
 
 type StructSubGoB struct{}

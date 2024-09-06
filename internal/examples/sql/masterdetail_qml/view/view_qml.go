@@ -3,14 +3,14 @@
 package view
 
 import (
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego/core"
 
-	"github.com/bluszcz/cutego/internal/examples/sql/masterdetail_qml/controller"
+	"github.com/0xDezzy/cutego/internal/examples/sql/masterdetail_qml/controller"
 
-	_ "github.com/bluszcz/cutego/internal/examples/sql/masterdetail_qml/view/album"
-	_ "github.com/bluszcz/cutego/internal/examples/sql/masterdetail_qml/view/artist"
-	_ "github.com/bluszcz/cutego/internal/examples/sql/masterdetail_qml/view/detail"
-	_ "github.com/bluszcz/cutego/internal/examples/sql/masterdetail_qml/view/dialog"
+	_ "github.com/0xDezzy/cutego/internal/examples/sql/masterdetail_qml/view/album"
+	_ "github.com/0xDezzy/cutego/internal/examples/sql/masterdetail_qml/view/artist"
+	_ "github.com/0xDezzy/cutego/internal/examples/sql/masterdetail_qml/view/detail"
+	_ "github.com/0xDezzy/cutego/internal/examples/sql/masterdetail_qml/view/dialog"
 )
 
 func init() {

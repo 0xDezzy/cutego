@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/bluszcz/cutego/internal/binding/parser"
-	"github.com/bluszcz/cutego/internal/utils"
+	"github.com/0xDezzy/cutego/internal/binding/parser"
+	"github.com/0xDezzy/cutego/internal/utils"
 )
 
 func GoOutput(name, value string, f *parser.Function, p string) string {

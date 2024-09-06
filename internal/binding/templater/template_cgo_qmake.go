@@ -10,9 +10,9 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/bluszcz/cutego/internal/binding/parser"
-	"github.com/bluszcz/cutego/internal/cmd"
-	"github.com/bluszcz/cutego/internal/utils"
+	"github.com/0xDezzy/cutego/internal/binding/parser"
+	"github.com/0xDezzy/cutego/internal/cmd"
+	"github.com/0xDezzy/cutego/internal/utils"
 )
 
 const (

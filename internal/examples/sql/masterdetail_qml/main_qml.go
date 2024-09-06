@@ -7,13 +7,13 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/qml"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/qml"
+	"github.com/0xDezzy/cutego/widgets"
 
-	"github.com/bluszcz/cutego/internal/examples/sql/masterdetail_qml/controller"
+	"github.com/0xDezzy/cutego/internal/examples/sql/masterdetail_qml/controller"
 
-	_ "github.com/bluszcz/cutego/internal/examples/sql/masterdetail_qml/view"
+	_ "github.com/0xDezzy/cutego/internal/examples/sql/masterdetail_qml/view"
 )
 
 const PRODUCTION = true
@@ -29,7 +29,7 @@ func main() {
 	if PRODUCTION {
 		path = "qrc:/qml/view.qml"
 	} else {
-		path = filepath.Join(os.Getenv("GOPATH"), "src", "github.com", "bluszcz", "qt", "internal", "examples", "sql", "masterdetail_qml", "view", "qml", "view.qml")
+		path = filepath.Join(os.Getenv("GOPATH"), "src", "github.com", "0xDezzy", "qt", "internal", "examples", "sql", "masterdetail_qml", "view", "qml", "view.qml")
 	}
 
 	core.QCoreApplication_SetAttribute(core.Qt__AA_EnableHighDpiScaling, true)

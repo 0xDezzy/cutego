@@ -1,6 +1,6 @@
 package model
 
-import "github.com/bluszcz/cutego/core"
+import "github.com/0xDezzy/cutego/core"
 
 type Transaction struct {
 	Status string

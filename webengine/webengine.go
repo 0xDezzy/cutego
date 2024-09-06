@@ -3,13 +3,13 @@
 package webengine
 
 import (
-	"github.com/bluszcz/cutego"
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/gui"
-	"github.com/bluszcz/cutego/network"
-	"github.com/bluszcz/cutego/printsupport"
-	"github.com/bluszcz/cutego/webchannel"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/gui"
+	"github.com/0xDezzy/cutego/network"
+	"github.com/0xDezzy/cutego/printsupport"
+	"github.com/0xDezzy/cutego/webchannel"
+	"github.com/0xDezzy/cutego/widgets"
 	"strings"
 	"unsafe"
 )

@@ -1,6 +1,6 @@
 package gow
 
-import "github.com/bluszcz/cutego/internal"
+import "github.com/0xDezzy/cutego/internal"
 
 var (
 	InitProcess = internal.InitProcess

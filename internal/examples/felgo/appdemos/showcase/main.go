@@ -4,12 +4,12 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/felgo"
-	"github.com/bluszcz/cutego/qml"
-	"github.com/bluszcz/cutego/quickcontrols2"
-	"github.com/bluszcz/cutego/webview"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/felgo"
+	"github.com/0xDezzy/cutego/qml"
+	"github.com/0xDezzy/cutego/quickcontrols2"
+	"github.com/0xDezzy/cutego/webview"
+	"github.com/0xDezzy/cutego/widgets"
 )
 
 func main() {

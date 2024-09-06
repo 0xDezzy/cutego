@@ -3,15 +3,15 @@ package main
 import (
 	"os"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/gui"
-	"github.com/bluszcz/cutego/network"
-	"github.com/bluszcz/cutego/qml"
-	"github.com/bluszcz/cutego/webchannel"
-	"github.com/bluszcz/cutego/websockets"
-	"github.com/bluszcz/cutego/webview"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/gui"
+	"github.com/0xDezzy/cutego/network"
+	"github.com/0xDezzy/cutego/qml"
+	"github.com/0xDezzy/cutego/webchannel"
+	"github.com/0xDezzy/cutego/websockets"
+	"github.com/0xDezzy/cutego/webview"
 
-	"github.com/bluszcz/cutego/internal/examples/webchannel/shared"
+	"github.com/0xDezzy/cutego/internal/examples/webchannel/shared"
 )
 
 type Dialog struct {

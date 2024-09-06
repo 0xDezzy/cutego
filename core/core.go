@@ -3,7 +3,7 @@
 package core
 
 import (
-	"github.com/bluszcz/cutego"
+	"github.com/0xDezzy/cutego"
 	"math"
 	"reflect"
 	"runtime"

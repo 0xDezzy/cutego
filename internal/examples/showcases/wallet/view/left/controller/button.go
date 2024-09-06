@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego/core"
 
-	"github.com/bluszcz/cutego/internal/examples/showcases/wallet/view/controller"
+	"github.com/0xDezzy/cutego/internal/examples/showcases/wallet/view/controller"
 )
 
 type buttonController struct {

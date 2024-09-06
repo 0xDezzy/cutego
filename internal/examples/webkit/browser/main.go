@@ -5,10 +5,10 @@ package main
 import (
 	"os"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/gui"
-	"github.com/bluszcz/cutego/webkit"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/gui"
+	"github.com/0xDezzy/cutego/webkit"
+	"github.com/0xDezzy/cutego/widgets"
 )
 
 var (

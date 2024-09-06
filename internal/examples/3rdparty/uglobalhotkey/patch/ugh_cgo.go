@@ -14,6 +14,6 @@ package UGlobalHotkey
 */
 import "C"
 
-import "github.com/bluszcz/cutego/widgets"
+import "github.com/0xDezzy/cutego/widgets"
 
 type stub struct{ widgets.QWidget }

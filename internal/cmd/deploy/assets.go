@@ -10,8 +10,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/bluszcz/cutego/internal/cmd/rcc"
-	"github.com/bluszcz/cutego/internal/utils"
+	"github.com/0xDezzy/cutego/internal/cmd/rcc"
+	"github.com/0xDezzy/cutego/internal/utils"
 )
 
 //linux

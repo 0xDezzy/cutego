@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/widgets"
 )
 
 type Window struct {

@@ -1,9 +1,9 @@
 package dialog
 
 import (
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego/core"
 
-	"github.com/bluszcz/cutego/internal/examples/showcases/wallet/wallet/dialog/controller"
+	"github.com/0xDezzy/cutego/internal/examples/showcases/wallet/wallet/dialog/controller"
 )
 
 type dialogTemplate struct {

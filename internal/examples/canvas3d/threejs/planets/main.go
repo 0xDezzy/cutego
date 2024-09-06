@@ -7,9 +7,9 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/gui"
-	"github.com/bluszcz/cutego/quick"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/gui"
+	"github.com/0xDezzy/cutego/quick"
 )
 
 func main() {

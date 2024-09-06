@@ -1,6 +1,6 @@
 package converter
 
-import "github.com/bluszcz/cutego/internal/binding/parser"
+import "github.com/0xDezzy/cutego/internal/binding/parser"
 
 func GoOutputParametersFromC(function *parser.Function, name string) string {
 	if function.Meta == parser.CONSTRUCTOR {

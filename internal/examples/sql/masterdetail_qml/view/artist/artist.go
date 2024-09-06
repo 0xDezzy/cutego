@@ -3,10 +3,10 @@
 package artist
 
 import (
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/widgets"
 
-	"github.com/bluszcz/cutego/internal/examples/sql/masterdetail_qml/controller"
+	"github.com/0xDezzy/cutego/internal/examples/sql/masterdetail_qml/controller"
 )
 
 type artistController struct {

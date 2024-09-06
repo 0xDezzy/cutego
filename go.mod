@@ -1,4 +1,4 @@
-module github.com/bluszcz/cutego
+module github.com/0xDezzy/cutego
 
 require (
 	github.com/gopherjs/gopherjs v0.0.0-20190411002643-bd77b112433e

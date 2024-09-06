@@ -1,10 +1,10 @@
 package sub
 
 import (
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego/core"
 
-	_ "github.com/bluszcz/cutego/internal/cmd/moc/test/sub/conf"
-	_ "github.com/bluszcz/cutego/internal/cmd/moc/test/sub/subsub"
+	_ "github.com/0xDezzy/cutego/internal/cmd/moc/test/sub/conf"
+	_ "github.com/0xDezzy/cutego/internal/cmd/moc/test/sub/subsub"
 )
 
 var SomeType *someType

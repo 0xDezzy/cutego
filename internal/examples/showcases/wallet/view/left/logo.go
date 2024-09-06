@@ -1,9 +1,9 @@
 package left
 
 import (
-	"github.com/bluszcz/cutego/quick"
+	"github.com/0xDezzy/cutego/quick"
 
-	_ "github.com/bluszcz/cutego/internal/examples/showcases/wallet/view/left/controller"
+	_ "github.com/0xDezzy/cutego/internal/examples/showcases/wallet/view/left/controller"
 )
 
 func init() { logoTemplate_QmlRegisterType2("LeftTemplate", 1, 0, "LogoTemplate") }

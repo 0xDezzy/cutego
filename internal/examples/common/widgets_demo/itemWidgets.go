@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/widgets"
 )
 
 func itemWidgets() {

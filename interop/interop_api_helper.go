@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego/core"
 )
 
 func genPseudoIn(s string) *PseudoQJSValue {

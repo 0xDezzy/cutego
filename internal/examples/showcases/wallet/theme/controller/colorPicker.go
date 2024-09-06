@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/gui"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/gui"
+	"github.com/0xDezzy/cutego/widgets"
 )
 
 var colorDialog *widgets.QMainWindow

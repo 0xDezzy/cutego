@@ -3,7 +3,7 @@ package controller
 import (
 	"time"
 
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego/core"
 )
 
 var DEMO bool

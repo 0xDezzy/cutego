@@ -3,11 +3,11 @@ package main
 import (
 	"os"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/gui"
-	"github.com/bluszcz/cutego/qml"
-	"github.com/bluszcz/cutego/quick"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/gui"
+	"github.com/0xDezzy/cutego/qml"
+	"github.com/0xDezzy/cutego/quick"
+	"github.com/0xDezzy/cutego/widgets"
 )
 
 func init() { Embedded_QmlRegisterType2("CustomModule", 1, 0, "Embedded") }

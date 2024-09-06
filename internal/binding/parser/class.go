@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/bluszcz/cutego/internal/utils"
+	"github.com/0xDezzy/cutego/internal/utils"
 )
 
 type Class struct {

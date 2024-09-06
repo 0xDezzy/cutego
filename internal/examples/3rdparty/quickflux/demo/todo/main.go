@@ -5,11 +5,11 @@ package main
 import (
 	"os"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/gui"
-	"github.com/bluszcz/cutego/qml"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/gui"
+	"github.com/0xDezzy/cutego/qml"
 
-	_ "github.com/bluszcz/cutego/internal/examples/3rdparty/quickflux/quickflux"
+	_ "github.com/0xDezzy/cutego/internal/examples/3rdparty/quickflux/quickflux"
 )
 
 func main() {

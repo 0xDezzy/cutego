@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/webengine"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/webengine"
+	"github.com/0xDezzy/cutego/widgets"
 )
 
 const htmlData = `<!DOCTYPE html>

@@ -3,9 +3,9 @@
 package testlib
 
 import (
-	"github.com/bluszcz/cutego"
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/widgets"
+	"github.com/0xDezzy/cutego"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/widgets"
 	"strings"
 	"unsafe"
 )

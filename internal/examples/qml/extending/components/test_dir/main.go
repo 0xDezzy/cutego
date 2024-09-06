@@ -3,11 +3,11 @@ package main
 import (
 	"os"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/gui"
-	"github.com/bluszcz/cutego/quick"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/gui"
+	"github.com/0xDezzy/cutego/quick"
 
-	_ "github.com/bluszcz/cutego/internal/examples/qml/extending/components/test_dir/component"
+	_ "github.com/0xDezzy/cutego/internal/examples/qml/extending/components/test_dir/component"
 )
 
 func main() {

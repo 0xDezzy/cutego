@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego/core"
 
-	"github.com/bluszcz/cutego/internal/examples/showcases/wallet/files/model"
+	"github.com/0xDezzy/cutego/internal/examples/showcases/wallet/files/model"
 )
 
 var FilesController *filesController

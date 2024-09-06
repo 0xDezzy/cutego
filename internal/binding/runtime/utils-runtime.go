@@ -1,8 +1,8 @@
 package runtime
 
 import (
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/qml"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/qml"
 )
 
 func init() {

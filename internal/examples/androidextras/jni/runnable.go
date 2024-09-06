@@ -4,8 +4,8 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/bluszcz/cutego"
-	"github.com/bluszcz/cutego/androidextras"
+	"github.com/0xDezzy/cutego"
+	"github.com/0xDezzy/cutego/androidextras"
 )
 
 type Runnable struct {

@@ -1,11 +1,11 @@
 package files
 
 import (
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/quick"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/quick"
 
-	"github.com/bluszcz/cutego/internal/examples/showcases/wallet/files/controller"
-	"github.com/bluszcz/cutego/internal/examples/showcases/wallet/files/dialog"
+	"github.com/0xDezzy/cutego/internal/examples/showcases/wallet/files/controller"
+	"github.com/0xDezzy/cutego/internal/examples/showcases/wallet/files/dialog"
 )
 
 func init() { filesTemplate_QmlRegisterType2("FilesTemplate", 1, 0, "FilesTemplate") }

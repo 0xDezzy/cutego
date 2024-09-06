@@ -1,17 +1,17 @@
 package sub
 
 import (
-	"github.com/bluszcz/cutego/internal/cmd/moc/test/sub/subsub"
+	"github.com/0xDezzy/cutego/internal/cmd/moc/test/sub/subsub"
 
-	"github.com/bluszcz/cutego/internal/cmd/moc/test/sub/b"
-	abc "github.com/bluszcz/cutego/internal/cmd/moc/test/sub/c"
-	. "github.com/bluszcz/cutego/internal/cmd/moc/test/sub/d"
+	"github.com/0xDezzy/cutego/internal/cmd/moc/test/sub/b"
+	abc "github.com/0xDezzy/cutego/internal/cmd/moc/test/sub/c"
+	. "github.com/0xDezzy/cutego/internal/cmd/moc/test/sub/d"
 
-	"github.com/bluszcz/cutego/internal/cmd/moc/test/sub/bgo"
-	abcgo "github.com/bluszcz/cutego/internal/cmd/moc/test/sub/cgo"
-	. "github.com/bluszcz/cutego/internal/cmd/moc/test/sub/dgo"
+	"github.com/0xDezzy/cutego/internal/cmd/moc/test/sub/bgo"
+	abcgo "github.com/0xDezzy/cutego/internal/cmd/moc/test/sub/cgo"
+	. "github.com/0xDezzy/cutego/internal/cmd/moc/test/sub/dgo"
 
-	_ "github.com/bluszcz/cutego/internal/cmd/moc/test/sub/conf"
+	_ "github.com/0xDezzy/cutego/internal/cmd/moc/test/sub/conf"
 )
 
 //TODO:  duplicate struct name issue

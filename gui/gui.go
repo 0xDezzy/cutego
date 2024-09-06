@@ -3,9 +3,9 @@
 package gui
 
 import (
-	"github.com/bluszcz/cutego"
-	"github.com/bluszcz/cutego/core"
-	_ "github.com/bluszcz/cutego/internal/binding/runtime"
+	"github.com/0xDezzy/cutego"
+	"github.com/0xDezzy/cutego/core"
+	_ "github.com/0xDezzy/cutego/internal/binding/runtime"
 	"strings"
 	"unsafe"
 )

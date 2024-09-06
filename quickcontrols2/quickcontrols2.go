@@ -3,8 +3,8 @@
 package quickcontrols2
 
 import (
-	"github.com/bluszcz/cutego"
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego"
+	"github.com/0xDezzy/cutego/core"
 	"strings"
 	"unsafe"
 )

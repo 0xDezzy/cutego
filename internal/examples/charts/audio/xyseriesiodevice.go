@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/bluszcz/cutego/charts"
-	"github.com/bluszcz/cutego/core"
+	"github.com/0xDezzy/cutego/charts"
+	"github.com/0xDezzy/cutego/core"
 )
 
 type XYSeriesIODevice struct {

@@ -3,11 +3,11 @@ package main
 import (
 	"os"
 
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/gui"
-	"github.com/bluszcz/cutego/network"
-	"github.com/bluszcz/cutego/quick"
-	"github.com/bluszcz/cutego/webengine"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/gui"
+	"github.com/0xDezzy/cutego/network"
+	"github.com/0xDezzy/cutego/quick"
+	"github.com/0xDezzy/cutego/webengine"
 )
 
 type bridge struct {

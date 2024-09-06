@@ -10,11 +10,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bluszcz/cutego/internal/binding/parser"
-	"github.com/bluszcz/cutego/internal/binding/templater"
+	"github.com/0xDezzy/cutego/internal/binding/parser"
+	"github.com/0xDezzy/cutego/internal/binding/templater"
 
-	"github.com/bluszcz/cutego/internal/cmd"
-	"github.com/bluszcz/cutego/internal/utils"
+	"github.com/0xDezzy/cutego/internal/cmd"
+	"github.com/0xDezzy/cutego/internal/utils"
 )
 
 func Install(target string, docker, vagrant, failfast bool) {
@@ -110,7 +110,7 @@ func Install(target string, docker, vagrant, failfast bool) {
 			cmd = exec.Command(filepath.Join(utils.GOBIN(), "gopherjs"), "install")
 		}
 
-		cmd.Args = append(cmd.Args, fmt.Sprintf("github.com/bluszcz/cutego/%v", strings.ToLower(module)))
+		cmd.Args = append(cmd.Args, fmt.Sprintf("github.com/0xDezzy/cutego/%v", strings.ToLower(module)))
 
 		if target == "js" {
 			cmd.Args = append(cmd.Args, "-v")

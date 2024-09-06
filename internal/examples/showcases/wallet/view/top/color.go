@@ -1,9 +1,9 @@
 package top
 
 import (
-	"github.com/bluszcz/cutego/quick"
+	"github.com/0xDezzy/cutego/quick"
 
-	_ "github.com/bluszcz/cutego/internal/examples/showcases/wallet/view/top/controller"
+	_ "github.com/0xDezzy/cutego/internal/examples/showcases/wallet/view/top/controller"
 )
 
 func init() { colorTemplate_QmlRegisterType2("TopTemplate", 1, 0, "ColorTemplate") }

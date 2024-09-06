@@ -1,8 +1,8 @@
 package shared
 
 import (
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/websockets"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/websockets"
 )
 
 type WebSocketClientWrapper struct {

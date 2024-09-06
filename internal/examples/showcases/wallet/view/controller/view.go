@@ -1,6 +1,6 @@
 package controller
 
-import "github.com/bluszcz/cutego/core"
+import "github.com/0xDezzy/cutego/core"
 
 var Controller *viewController
 

@@ -3,10 +3,10 @@
 package charts
 
 import (
-	"github.com/bluszcz/cute"
-	"github.com/bluszcz/cute/core"
-	"github.com/bluszcz/cute/gui"
-	"github.com/bluszcz/cute/widgets"
+	"github.com/0xDezzy/cute"
+	"github.com/0xDezzy/cute/core"
+	"github.com/0xDezzy/cute/gui"
+	"github.com/0xDezzy/cute/widgets"
 	"strings"
 	"unsafe"
 )

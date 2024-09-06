@@ -1,10 +1,10 @@
 package wallet
 
 import (
-	"github.com/bluszcz/cutego/core"
-	"github.com/bluszcz/cutego/quick"
+	"github.com/0xDezzy/cutego/core"
+	"github.com/0xDezzy/cutego/quick"
 
-	"github.com/bluszcz/cutego/internal/examples/showcases/wallet/wallet/controller"
+	"github.com/0xDezzy/cutego/internal/examples/showcases/wallet/wallet/controller"
 )
 
 func init() { walletTemplate_QmlRegisterType2("WalletTemplate", 1, 0, "WalletTemplate") }

@@ -1,9 +1,9 @@
 package top
 
 import (
-	"github.com/bluszcz/cutego/quick"
+	"github.com/0xDezzy/cutego/quick"
 
-	"github.com/bluszcz/cutego/internal/examples/showcases/wallet/view/top/controller"
+	"github.com/0xDezzy/cutego/internal/examples/showcases/wallet/view/top/controller"
 )
 
 func init() { statusTemplate_QmlRegisterType2("TopTemplate", 1, 0, "StatusTemplate") }
