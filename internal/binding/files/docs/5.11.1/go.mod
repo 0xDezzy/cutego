@@ -1,1 +1,1 @@
-module github.com/StarAurryon/qt/internal/binding/files/docs/5.11.1
+module github.com/bluszcz/qt/internal/binding/files/docs/5.11.1

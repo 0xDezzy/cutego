@@ -1,1 +1,1 @@
-module github.com/StarAurryon/qt/internal/examples
+module github.com/bluszcz/qt/internal/examples
